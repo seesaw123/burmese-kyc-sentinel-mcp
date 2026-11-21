@@ -48,8 +48,6 @@ flowchart TD
     Decide --> Output["Disposition: APPROVE / MANUAL_EDD_REVIEW / REQUEST_RESUBMISSION<br/>+ decision reasons + Burmese feedback + latency"]
 ```
 
-The same diagram is in [`docs/architecture.mmd`](docs/architecture.mmd).
-
 ### MCP tools
 
 | Tool | What it does |
